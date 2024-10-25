@@ -1,7 +1,7 @@
 # Noticeboard using Springboot
 
 ### 1. Overview
-![usecase.png](document/usecase.png)
+![project-noticeboard.png](document/project-noticeboard.png)
 
 ---
 ### 2. Features
