@@ -81,6 +81,8 @@ Return statusCode: 400 when:
  - user request to sign up with username which is already in the DB -> 'Duplicated username'
 
 
+
+reference by: spring.io, velog.io
 <br>
 <!-- ""
 > ❓ Why : 질문과 답변
